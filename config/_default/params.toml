@@ -1,8 +1,12 @@
 
 title = "I'm Jane Doe"
-author = "Jane Doe"
+author = "Susan Gichuki"
 #copyright = "2020-2021"
-description = "Call me Jane"
+description = """
+Research|Data Analysis|Project Management
+"""
+
+
 profilePicture = "images/profile.jpg"
 keywords = ""
 favicon = "favicons/"
@@ -52,17 +56,17 @@ use = "katex"  # options: "katex", "mathjax". default is "katex".
 [[socialIcons]]
 icon = "fab fa-linkedin"
 title = "Linkedin"
-url = "https://de.linkedin.com/"
+url = "https://www.linkedin.com/in/susanwg/"
 
 [[socialIcons]]
 icon = "fab fa-github"
 title = "GitHub"
-url = "https://github.com/lxndrblz/anatole/"
+url = "https://github.com/sgichuki"
 
 [[socialIcons]]
-icon = "fab fa-instagram"
-title = "instagram"
-url = "https://www.instagram.com/"
+#icon = "fab fa-instagram"
+#title = "instagram"
+#url = "https://www.instagram.com/"
 
 [[socialIcons]]
 icon = "fas fa-envelope"
